@@ -35,3 +35,12 @@ screw close C24).
 
 #### J18
 ![J18](pics/J18.jpg)
+
+#### PIC1
+![PIC1](pics/PIC1.JPG)
+
+#### PIC2
+![PIC2](pics/PIC2.JPG)
+
+#### PIC3
+![PIC3](pics/PIC3.JPG)
