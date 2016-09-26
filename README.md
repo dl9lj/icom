@@ -31,5 +31,7 @@ connect open end with small wire (W30) to J6. Now the ALC connector (J18)
 is available for TX-In. C24 solder out side which is connected to small
 bridge and connect open end with small coax cable to ALC-connector (J18).
 Solder shield of coax cable on both sides close to GND (GND of J18 and
-screw close C24).  
+screw close C24).
 
+#### J18
+![J18](pics/J18.jpg)
