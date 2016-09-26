@@ -22,7 +22,8 @@ open side with small coax cable to cathode of D24. Solder shield of coax
 cable on both sides close to GND (GND of J13 and sheet metal close to 
 D24).  
 
-(pics/J13.jpg)
+#### J13
+![J13](pics/J13.jpg)
 
 Tx Path:
 R359 (10k) - solder out side which is connected to J18 and 
