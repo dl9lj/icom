@@ -36,6 +36,9 @@ screw close C24).
 #### J18
 ![J18](pics/J18.jpg)
 
+#### Block diagram
+![Block diagram](pics/block.jpg)
+
 #### PIC1
 ![PIC1](pics/PIC1.JPG)
 
