@@ -1,4 +1,5 @@
 // 26.09.2016 DL9LJ: IC-735 remote control
+// add this to your sdr-transceiver-hpsdr.c file
 
 
 // GLOBAL
