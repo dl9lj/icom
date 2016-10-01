@@ -20,7 +20,7 @@ Rx Path:
 C328 (4.7nF) - solder out side which is connected to R363 and connect
 open side with small coax cable to cathode of D24. Solder shield of coax
 cable on both sides close to GND (GND of J13 and sheet metal close to 
-D24).  
+D24). PIC2
 
 #### J13
 ![J13](pics/J13.jpg)
@@ -31,7 +31,7 @@ connect open end with small wire (W30) to J6. Now the ALC connector (J18)
 is available for TX-In. C24 solder out side which is connected to small
 bridge and connect open end with small coax cable to ALC-connector (J18).
 Solder shield of coax cable on both sides close to GND (GND of J18 and
-screw close C24).
+screw close to C24). PIC1, PIC2
 
 #### J18
 ![J18](pics/J18.jpg)
