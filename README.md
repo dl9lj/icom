@@ -12,7 +12,7 @@ J13 (X-Verter) for Rx-Out and
 J18 (ALC) for Tx-In 
 
 After modification the receiver works as usual - the transmitter is 
-diconnected.
+diconnected and work with connected SDR.
 
 Required Material: RG-174 (0.5m), some solder pins 
 
@@ -23,24 +23,24 @@ cable on both sides close to GND (GND of J13 and sheet metal close to
 D24). PIC2
 
 #### J13
-![J13](pics/J13.jpg)
+![J13](pics/J13.png)
 
 Tx Path:
 R359 (10k) - solder out side which is connected to J18 and 
 connect open end with small wire (W30) to J6. Now the ALC connector (J18) 
-is available for TX-In. C24 solder out side which is connected to small
-bridge and connect open end with small coax cable to ALC-connector (J18).
+is available for TX-In. C15 solder out side which is connected to inductor
+and connect open end with small coax cable to ALC-connector (J18).
 Solder shield of coax cable on both sides close to GND (GND of J18 and
-screw close to C24). PIC1, PIC2
+screw close to C15). PIC1, PIC3
 
 #### J18
-![J18](pics/J18.jpg)
+![J18](pics/J18.png)
 
 #### PIC1
-![PIC1](pics/PIC1.JPG)
+![PIC1](pics/C15_328.jpg)
 
 #### PIC2
-![PIC2](pics/PIC2.JPG)
+![PIC2](pics/D24.jpg)
 
 #### PIC3
-![PIC3](pics/PIC3.JPG)
+![PIC3](pics/R359.jpg)
