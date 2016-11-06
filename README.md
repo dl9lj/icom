@@ -20,7 +20,7 @@ Rx Path:
 C328 (4.7nF) - solder out side which is connected to R363 and connect
 open side with small coax cable to cathode of D24. Solder shield of coax
 cable on both sides close to GND (GND of J13 and sheet metal close to 
-D24). PIC2
+D24). PIC2, PIC3
 
 #### J13
 ![J13](pics/J13.png)
@@ -44,3 +44,20 @@ screw close to C15). PIC1, PIC3
 
 #### PIC3
 ![PIC3](pics/R359.jpg)
+
+
+Receiving:
+Receiver could be more sensitive. Using Hermes Lite instead of Red Pitaya
+shows, that a pre amp can help. 
+
+Transmitting:
+I use Quisk Software from N2ADR. Tx Level needs to be limited in config 
+menu to 30 or 40%. Attenuator or impedance matching network can improve 
+the signal.
+
+In general the transceiver works and I have received good reports.
+
+
+Andreas (DL9LJ) - November 2016
+
+
